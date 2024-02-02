@@ -1,5 +1,4 @@
 # Osint-KeebarSecurityGroup
-# Keeber
 ### Challenge Group | medium | OSINT | 1842 points
 
 [Keeber 1 - 50 points](#keeber-1--50-pts) \
